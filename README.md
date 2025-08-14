@@ -1,4 +1,4 @@
-CNN-Based Waste Segregation using Image Classification
+# CNN-Based Waste Segregation using Image Classification
 Tools: Python, TensorFlow/Keras, CNN, NumPy, Matplotlib
 
 Developed a convolutional neural network (CNN) using TensorFlow/Keras to classify waste into 7 categories including cardboard, glass, paper, and plastic.
